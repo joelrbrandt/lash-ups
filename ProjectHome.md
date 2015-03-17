@@ -1,0 +1,1 @@
+A Symbian client application and set of PHP/MySQL-backed API calls that work together to ease the development and distribution of small, location-aware applications for mobile phones.
